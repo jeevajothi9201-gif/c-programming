@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+printf("welcome\n");
+goto livewire;
+printf("where are you going");
+
+livewire:
+printf ("Welcome to livewire"); 
+
+}
+
